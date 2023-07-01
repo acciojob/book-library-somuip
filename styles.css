@@ -31,3 +31,11 @@ img{
 .book-library{
 	display:grid;
 }
+p{
+	padding:0px; 
+    margin:0px;
+}
+h2{
+	padding:0px; 
+   margin:0px;
+}
